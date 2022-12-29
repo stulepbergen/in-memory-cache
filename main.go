@@ -1,8 +1,8 @@
 package main
 
 import (
-	"InMemoryCache/cache"
 	"fmt"
+	"github.com/stulepbergen/in-memory-cache/cache"
 )
 
 func main() {
